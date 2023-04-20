@@ -1,0 +1,13 @@
+12
+1	goomba	700	830
+2	floor	0	872
+2	floor	128	872
+2	floor	256	872
+2	floor	384	872
+2	floor	512	872
+2	floor	640	872
+2	floor	768	872
+2	floor	896	872
+2	floor	1024	872
+2	floor	64	616
+3	goal	990	536

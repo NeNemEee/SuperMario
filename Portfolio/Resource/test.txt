@@ -1,0 +1,7 @@
+1	2				
+troopa	288	63	48	63	Resource/Texture/Monster/troopa.bmp
+goomba	129	42	43	42	Resource/Texture/Monster/goomba.bmp
+2	1				
+floor	128	128	128	128	Resource\Texture\Structure/floor.bmp
+3	1
+goal	48	336	48	336	Resource\Texture\Goal/goal.bmp
